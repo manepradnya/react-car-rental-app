@@ -1,0 +1,7 @@
+.footer{
+    padding: 50px 0;
+    background-color: #121214;
+}
+.footer img{width: auto;}
+.footer button{background-color: #593cfb;color: #fff;font-weight: 600;padding: 20px 40px;border: none;transition: baackground-color 1s;cursor: pointer;}
+.footer button:hover{background-color: #4733b7;transition: baackground-color 1s;}

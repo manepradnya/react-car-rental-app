@@ -1,0 +1,12 @@
+.drive{padding:50px 0 100px;}
+.drive .left{width: 48%;margin-right: 4%;}
+.drive .right{width: 48%;}
+.drive span{color: #593cfb;}
+.drive button{background-color: #593cfb;color: #fff;font-weight: 600;padding: 20px 40px;border: none;transition: baackground-color 1s;cursor: pointer;}
+.drive button:hover{background-color: #4733b7;transition: baackground-color 1s;}
+
+@media screen and (max-width:767px) {
+    .drive{padding: 50px 0;}
+    .drive .left{width: 100%;margin-right: 0;margin-bottom: 30px;}
+    .drive .right{width: 100%;}
+}
